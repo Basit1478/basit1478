@@ -53,9 +53,9 @@ I'm a passionate **AI Developer** and **Full Stack Engineer** currently learning
 
 ```typescript
 const basitAli = {
-    learning: ["AI-Native Development", "LangChain", "Vector Databases"],
+    learning: ["AI-Native Development", "Vector Databases"],
     building: ["AI-powered applications", "LLM integrations"],
-    exploring: ["Web3", "Metaverse", "AI Agents"],
+    exploring: ["AI Agents"],
     community: "GIAIC Student Community",
     goal: "Building the future with AI + Human creativity"
 };
@@ -70,11 +70,11 @@ const basitAli = {
 #### 🤖 AI Development Research
 > Exploring AI-Driven vs AI-Native development paradigms
 
-**Technologies:** Python, LangChain, OpenAI API  
+**Technologies:** Python, OpenAI, Gemini, Claude 
 **Status:** 🚀 Active Research
 
 #### 🌐 Next.js Portfolio
-> Modern portfolio showcasing AI and Web3 projects
+> Modern portfolio showcasing AI projects
 
 **Technologies:** Next.js, TypeScript, Tailwind CSS  
 **Status:** 🛠️ In Development
@@ -82,7 +82,7 @@ const basitAli = {
 #### 📊 AI Content Creator
 > Automated content generation using LLMs
 
-**Technologies:** Python, OpenAI, Anthropic Claude  
+**Technologies:** Python, OpenAI, Anthropic Claude, Gemini
 **Status:** 💡 Planning
 
 ---
@@ -108,14 +108,13 @@ const basitAli = {
 - ✅ Artificial Intelligence Fundamentals
 - ✅ Generative AI & Large Language Models
 - ✅ Cloud-Native Computing
-- ✅ Web3 & Metaverse Development
 - 🔄 AI-Driven & AI-Native Development
 
 ### 📚 Continuous Learning
 - Prompt Engineering & Context Engineering
 - AI Architecture & System Design
 - Human-AI Collaboration Patterns
-- LangChain & Vector Databases
+- Vector Databases
 
 ---
 
@@ -156,8 +155,8 @@ class BasitAli:
         return {
             "languages": ["TypeScript", "Python", "JavaScript"],
             "frameworks": ["Next.js", "React", "TailwindCSS"],
-            "ai_tools": ["OpenAI API", "LangChain", "Claude API"],
-            "specialties": ["AI Development", "Web3", "Metaverse"],
+            "ai_tools": ["Gemini API", "Qwen API", "Claude API"],
+            "specialties": ["AI Development", "Frontend Development", "Backend Development"],
             "soft_skills": [
                 "Creative Problem-Solving",
                 "Critical Thinking",
@@ -233,7 +232,7 @@ I believe the future of software engineering is **Human + AI** collaboration. Th
 
 - [ ] 🤖 Build and deploy 5 AI-Native applications
 - [ ] 📚 Complete GIAIC AI Development curriculum
-- [ ] 🎓 Master LangChain and AI Agent frameworks
+- [ ] 🎓 Master AI Agent frameworks
 - [ ] 🌟 Contribute to 10+ open-source AI projects
 - [ ] 📝 Publish 50+ educational posts on AI development
 - [ ] 🤝 Collaborate with 100+ developers in AI community
