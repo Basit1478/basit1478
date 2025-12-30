@@ -14,7 +14,7 @@ I'm a passionate **AI Developer** and **Full Stack Engineer** currently learning
 
 - 🔭 I'm currently working on **AI-powered applications** and exploring **LLMs**
 - 🌱 I'm learning **Prompt Engineering**, **Context Engineering**, and **AI Architecture**
-- 💡 I'm interested in **Web3**, **Metaverse**, and **Generative AI**
+- 💡 I'm interested in **Predictive AI**, **Agentic AI**, and **Generative AI**
 - 🎯 2025 Goal: Master **AI-Native Development** and build production-ready AI applications
 - ⚡ Fun fact: I create educational content about AI development on LinkedIn
 
@@ -34,7 +34,6 @@ I'm a passionate **AI Developer** and **Full Stack Engineer** currently learning
 
 ### AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Tools & Platforms
@@ -308,6 +307,6 @@ I'm actively looking for:
 
 **⭐️ From [basit1478](https://github.com/basit1478)**
 
-*Last Updated: December 2024*
+*Last Updated: December 2025*
 
 </div>
